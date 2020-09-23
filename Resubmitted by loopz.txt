@@ -1,0 +1,10 @@
+ORIGINAL CODE: http://www.1vbstreet.com/vb/scripts/ShowCode.asp?txtCodeId=46567&lngWId=1
+
+Yes, you can see what one of your buddies wrote to you with MSN MESSENGER 6 with this.
+So you can remote-control a pc using messenger 6!
+This code is basically a packet sniffer which searches the packet data for a given command, for examle "shutdown",
+then you can make it do what you want.
+
+This code is based on "Raw Packet Sniffer" by IRBme. For the original submission, goto http://www.1vbstreet.com/vb/scripts/ShowCode.asp?txtCodeId=46567&lngWId=1
+
+I dont deserve credits for this, cause i didn't change much...but hey, it works!
